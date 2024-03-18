@@ -10,23 +10,46 @@
 2. Criar conta no [vercel](vercel.com)
 
 ## Tarefas
+
+### Tarefas - 12/03
 1. Fork desse respositório para sua conta github. Assim posso acompanhar quem esta fazendo.
 2. No seu repositório, crie os arquivos abaixos
 3. No vercel, crie um novo projeto importando o seu repositório
 4. Siga as mudanças do [learn react](https://react.dev/learn) e acompanhe a cada _commit_ as modificações no vercel
 
-- 12/03
+**Conteúdo**
   - [Componentes react](https://react.dev/learn#components)
   - [JSX](https://react.dev/learn#writing-markup-with-jsx)
   - [css](https://react.dev/learn#adding-styles)
   - [código js/ts no jsx](https://react.dev/learn#displaying-data)
-- 18/03
+
+### Tarefas - 18/03
+1. Acesse seu reposiório *fork*
+2. Crie uma release com o nome **react-2024-03-12** para guardar suas tarefas anteriores do dia 12-03
+3. Abra o VS Code
+4. Clone o seu repositório *fork* para a máquina local
+5. Abra no VS Code a pasta na máquina local do repositório
+6. Instale as bibliotecas do projeto `npm install`
+7. Execute a aplicação na máquina local `npm run dev`
+8. Abra o navegador com o enderço (*url*) fornecida
+9. Siga as mudanças do [learn react](https://react.dev/learn) e acompanhe a cada modificação local
+10. Faça um *commit* e *push* para guardar as modificações e publica-las no repositório remoto
+11. Verificar se a mudança foi instalada no vercel
+12. Crie uma release com o nome **react-2024-03-18** para guardar suas tarefas anteriores do dia 18-03
+
+**Conteúdo**
   - [código js/ts no jsx](https://react.dev/learn#displaying-data)
   - [renderização condicional](https://react.dev/learn#conditional-rendering)
   - [listas](https://react.dev/learn#rendering-lists)
-- 19/03
-  - [respondendo a eventos](https://react.dev/learn#responding-to-events)
+
+### Tarefas - 19/03
+**Conteúdo**
   - [estado](https://react.dev/learn#updating-the-screen)
+
+
+### Tarefas - 25/03
+**Conteúdo**
+  - [respondendo a eventos](https://react.dev/learn#responding-to-events)
   - [compartilhando dados entre componentes](https://react.dev/learn#sharing-data-between-components)
   
 
