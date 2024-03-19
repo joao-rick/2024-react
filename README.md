@@ -43,12 +43,6 @@
   - [listas](https://react.dev/learn#rendering-lists)
 
 ### Tarefas - 19/03
-**Conteúdo**
-  - [respondendo a eventos](https://react.dev/learn#responding-to-events)
-  - [estado](https://react.dev/learn#updating-the-screen)
-
-
-### Tarefas - 25/03
 1. Se ainda não criou, crie uma release com o nome **react-2024-03-18** para guardar suas tarefas anteriores do dia 18-03
 2. Clone ou atualize seu repositório local do remoto (github)
 3. Execute a aplicação na máquina local `npm run dev`
@@ -56,9 +50,14 @@
 5. Adicione função para escutar clique do botão e fazer um _output_ no log
 6. Modifique a função de escuta para adicionar tarefa a lista de tarefas e observe a UI que não muda
 7. Transforme o input de text (tarefa) em estado
-8. Exporte os inputs como componente
-9. DESAFIO continuar transformando a lista em estado
-10. Crie uma release com o nome **react-2024-03-19** para guardar suas tarefas anteriores do dia 19-03
+8. DESAFIO continuar transformando a lista em estado
+9. Crie uma release com o nome **react-2024-03-19** para guardar suas tarefas anteriores do dia 19-03
+**Conteúdo**
+  - [respondendo a eventos](https://react.dev/learn#responding-to-events)
+  - [estado](https://react.dev/learn#updating-the-screen)
+
+
+### Tarefas - 25/03
 
 **Conteúdo**
   - [compartilhando dados entre componentes](https://react.dev/learn#sharing-data-between-components)
