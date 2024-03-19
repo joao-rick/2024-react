@@ -55,12 +55,18 @@
 4. Adicione componente para adicionar tarefa (input text e input button)
 5. Adicione função para escutar clique do botão e fazer um _output_ no log
 6. Modifique a função de escuta para adicionar tarefa a lista de tarefas e observe a UI que não muda
+7. Transforme o input de text (tarefa) em estado
+8. Exporte os inputs como componente
+9. DESAFIO continuar transformando a lista em estado
+10. Crie uma release com o nome **react-2024-03-19** para guardar suas tarefas anteriores do dia 19-03
 
 **Conteúdo**
   - [compartilhando dados entre componentes](https://react.dev/learn#sharing-data-between-components)
   
 
 ## Links
+- nodejs
+  - node version manager [nvm](https://github.com/nvm-sh/nvm) para instalar `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash`
 - React
   - [react.dev](https://react.dev/)
   - [learn react](https://react.dev/learn)
