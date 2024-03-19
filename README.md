@@ -44,12 +44,19 @@
 
 ### Tarefas - 19/03
 **Conteúdo**
+  - [respondendo a eventos](https://react.dev/learn#responding-to-events)
   - [estado](https://react.dev/learn#updating-the-screen)
 
 
 ### Tarefas - 25/03
+1. Se ainda não criou, crie uma release com o nome **react-2024-03-18** para guardar suas tarefas anteriores do dia 18-03
+2. Clone ou atualize seu repositório local do remoto (github)
+3. Execute a aplicação na máquina local `npm run dev`
+4. Adicione componente para adicionar tarefa (input text e input button)
+5. Adicione função para escutar clique do botão e fazer um _output_ no log
+6. 
+
 **Conteúdo**
-  - [respondendo a eventos](https://react.dev/learn#responding-to-events)
   - [compartilhando dados entre componentes](https://react.dev/learn#sharing-data-between-components)
   
 
