@@ -54,7 +54,7 @@
 3. Execute a aplicação na máquina local `npm run dev`
 4. Adicione componente para adicionar tarefa (input text e input button)
 5. Adicione função para escutar clique do botão e fazer um _output_ no log
-6. 
+6. Modifique a função de escuta para adicionar tarefa a lista de tarefas e observe a UI que não muda
 
 **Conteúdo**
   - [compartilhando dados entre componentes](https://react.dev/learn#sharing-data-between-components)
